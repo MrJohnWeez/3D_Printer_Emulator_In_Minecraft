@@ -1,0 +1,2 @@
+Just Drag and drop each datapack .zip file into the datapacks folder of a 
+minecraft VOID world
